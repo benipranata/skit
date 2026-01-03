@@ -1,3 +1,7 @@
+// testing.go contains helper functions for asserting errors in tests.
+// All functions in this file are specifically designed for error assertions only,
+// not for asserting values or other types.
+
 package skit
 
 import (
